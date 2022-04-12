@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+#### Some things that I like:
+- programming
+  - Python
+  - C++
+  - Javascript
+- Eating foods I love
+  - Chicken Tikka
+  - Pizza
+  - Stir-fry
+- Gaming
+  - Minecraft
+  - Valorant
